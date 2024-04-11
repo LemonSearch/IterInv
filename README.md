@@ -1,5 +1,6 @@
 
-# [IterInv: Iterative Inversion for Pixel-Level T2I Models](https://arxiv.org/abs/2310.19540) [(NeurIPS 2023 Workshop on Diffusion Models)](https://neurips.cc/virtual/2023/74859) 
+# [IterInv: Iterative Inversion for Pixel-Level T2I Models](https://arxiv.org/abs/2310.19540) 
+[(NeurIPS 2023 Workshop on Diffusion Models)](https://neurips.cc/virtual/2023/74859) & ICME 2024
 
 ### [Chuanming Tang](https://scholar.google.com/citations?user=BiRPM9AAAAAJ), [Kai Wang](https://scholar.google.com/citations?user=j14vd0wAAAAJ), [Joost van de Weijer](https://scholar.google.com/citations?user=Gsw2iUEAAAAJ&hl=en)
 
